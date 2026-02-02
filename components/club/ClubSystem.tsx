@@ -36,7 +36,12 @@ export function ClubSystem() {
       {/* Hero Section */}
       <section className="relative pt-40 pb-32 px-8 overflow-hidden" style={{ backgroundColor: THEME_COLOR }}>
         <div className="max-w-[1440px] mx-auto relative z-10">
-          <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} className="text-center">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8, ease: 'easeOut' }}
+            className="text-center"
+          >
             <span className="inline-block px-6 py-2 rounded-full text-sm font-black tracking-[0.3em] mb-8 uppercase" style={{ backgroundColor: BRAND_GREEN, color: THEME_COLOR }}>
               {t('heroTag')}
             </span>

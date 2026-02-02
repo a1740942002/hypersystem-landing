@@ -44,7 +44,8 @@ export function Navbar() {
   };
 
   const NavLink = ({ href, label }: { href: string; label: string }) => {
-    const isActive = pathname === href || (href === '/' && pathname === '/');
+    const normalizedPathname = (pathname || '/').replace(/\/$/, '') || '/';
+    const isActive = normalizedPathname === href;
     let activeClasses = 'bg-slate-950 text-white shadow-lg';
     let inactiveClasses = 'text-slate-600 hover:text-blue-600 hover:bg-slate-100';
     if (isDarkHero) {

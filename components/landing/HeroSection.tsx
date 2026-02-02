@@ -31,7 +31,11 @@ export function HeroSection() {
       </div>
       <div className="max-w-[1440px] mx-auto w-full relative z-20">
         <div className="grid lg:grid-cols-[1fr_1.4fr] gap-12 items-center">
-          <motion.div initial={{ opacity: 0, x: -40 }} animate={{ opacity: 1, x: 0 }}>
+          <motion.div
+            initial={{ opacity: 0, x: -40 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.8, ease: 'easeOut' }}
+          >
             <div className="inline-block px-6 py-2 rounded-full bg-blue-600 text-white text-sm font-black tracking-[0.4em] mb-8 uppercase">
               {t('tag')}
             </div>
@@ -76,6 +80,7 @@ export function HeroSection() {
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
+            transition={{ duration: 0.8, ease: 'easeOut', delay: 0.2 }}
             className="hidden lg:block"
           >
             <img
