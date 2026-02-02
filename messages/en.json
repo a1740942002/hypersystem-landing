@@ -1,0 +1,290 @@
+{
+  "seo": {
+    "title": "HyperSystem | Best-in-class Poker Infrastructure & Management",
+    "description": "HyperSystem provides advanced poker club management software and HyperPoker player hub. Real-time monitoring, automated settlements, BI insights, and loyalty tools.",
+    "clubTitle": "Club Management - HyperSystem | Professional Poker Venue Solutions",
+    "playerTitle": "HyperPoker Player Hub | Live Status, Smart RSVP & Analytics",
+    "pricingTitle": "Pricing - HyperSystem | Flexible Plans for Every Poker Business"
+  },
+  "nav": {
+    "product": "Home",
+    "calculator": "ROI Analysis",
+    "service": "FAQ",
+    "clubSystem": "HyperSystem Club",
+    "playerSystem": "HyperPoker Player",
+    "pricing": "Pricing",
+    "trial": "Request Trial"
+  },
+  "hero": {
+    "tag": "Next-Gen Poker Super System",
+    "title1": "Transform Fragmented Ops",
+    "title2": "into Profit Momentum",
+    "desc": "An end-to-end management engine for modern poker associations. Integrated Club & Player systems to optimize efficiency and drive growth flywheels.",
+    "card1Title": "Association Backend",
+    "card1Desc": "One-stop shop for venue management",
+    "card2Title": "Player System",
+    "card2Desc": "Tournaments, bookings, and rewards"
+  },
+  "product": {
+    "tag": "Product Preview",
+    "title": "Full Modular Solutions",
+    "subtitle": "Whether single-store or chain, HyperSystem provides a cloud architecture that scales infinitely with your growth.",
+    "liveSync": "Real-time Data Sync"
+  },
+  "healthCheck": {
+    "tag": "Business Health Check",
+    "title": "From Intelligent Backend to Ultimate Experience",
+    "pillar1": "Hyper Ops | Process Optimization",
+    "pillar1Desc": "Build standardized, automated workflows to maximize operational efficiency.",
+    "pillar2": "Hyper Control | Risk Management",
+    "pillar2Desc": "Real-time sync and layered permissions ensure every asset is controlled.",
+    "pillar3": "Hyper Growth | Marketing & Scale",
+    "pillar3Desc": "Optimize player journeys and reactivate dormant users to boost occupancy rates.",
+    "footer": "HyperSystem tailored profit engines reveal every hidden inefficiency loss."
+  },
+  "calculator": {
+    "title1": "1. Diagnose Pain Points",
+    "groupOps": "Ops Process: Return Time to Players",
+    "groupControl": "Control Risk: Accuracy in Every Cent",
+    "groupGrowth": "Hyper Growth | Remarketing: Automated Player Retention",
+    "title2": "2. Operation Scale",
+    "label1": "Daily Tournaments",
+    "label2": "Daily Active Players",
+    "label3": "Average Hourly Wage (TWD)",
+    "btnRun": "Generate Report",
+    "calculating": "Analyzing your operational data...",
+    "resultHours": "Monthly Labor Saved",
+    "resultRisk": "Risk Security Boost",
+    "resultGrowth": "Expected Occupancy Up",
+    "resultValue": "Annual Operational Value",
+    "resultFooter": "HyperSystem turns operational leakage into tangible profits.",
+    "btnRetry": "Re-evaluate",
+    "btnApply": "Request Free Trial"
+  },
+  "contact": {
+    "title1": "End Inefficient Ops",
+    "title2": "Bridge the Tech Gap",
+    "desc": "HyperSystem provides 24/7 technical support to build your strongest digital moat.",
+    "btnTrial": "Start Free Trial"
+  },
+  "modal": {
+    "title": "Request Trial",
+    "titleSubscription": "Subscribe to {plan} Plan",
+    "desc": "Leave your contact info, and HyperSystem experts will showcase our powerful engine and provide trial access.",
+    "descSubscription": "Subscribe now, and a HyperSystem agent will contact you within a week to assist with data migration.",
+    "labelBrand": "Brand / Association Name",
+    "placeholderBrand": "Your Brand Name",
+    "labelTaxId": "Tax ID",
+    "placeholderTaxId": "Your Tax ID Number",
+    "labelContact": "Contact Person",
+    "placeholderContact": "Responsible Person",
+    "labelEmail": "Email (Optional)",
+    "placeholderEmail": "Your email address",
+    "labelPhone": "Phone Number",
+    "placeholderPhone": "Your phone number",
+    "labelAddress": "Association Address",
+    "placeholderAddress": "Enter full detailed address",
+    "btnSubmit": "Submit Application",
+    "btnSubscribe": "Submit & Pay"
+  },
+  "demos": {
+    "live": "Live Monitor",
+    "table": "Table #",
+    "level": "Level",
+    "vip": "VIP Player",
+    "turnover": "Total Turnover",
+    "syncBtn": "Publish & Sync",
+    "broadcast": "Broadcasting",
+    "syncing": "Syncing...",
+    "botNews": "News: Sunday Millions is now open for booking.",
+    "weeklyRev": "Weekly Revenue",
+    "target": "Target Met",
+    "revPerf": "Revenue Performance",
+    "playerCenter": "Player Hub",
+    "wallet": "Wallet Balance",
+    "winRate": "Win Rate"
+  },
+  "pricing": {
+    "tag": "Scale Your Passion",
+    "title": "Select Your Growth Plan",
+    "subtitle": "Flexible architectures for single venues or global chains.",
+    "toggleMonthly": "Monthly",
+    "toggleAnnually": "Annually",
+    "offTag": "17% OFF",
+    "monthUnit": "mo",
+    "yearUnit": "yr",
+    "avgMonth": "Avg.",
+    "mostPopular": "Most Popular",
+    "ctaFree": "Start Trial",
+    "ctaPaid": "Subscribe Now",
+    "showDetail": "Show Detailed Features",
+    "addons": {
+      "title": "Add-on Modules",
+      "note": "Subscription includes base features. Pro & Enterprise include messaging credits.",
+      "item1": "Food & Beverage / E-Menu",
+      "item1Price": "3,000 / mo",
+      "item2": "Store Expansion",
+      "item2Price": "2,000 / store",
+      "item3": "Flexible Customization",
+      "item3Price": "Contact Sales"
+    },
+    "plans": {
+      "free": {
+        "name": "Free",
+        "tag": "3-Month Experience",
+        "price": 0,
+        "desc": "Digital start with zero cost.",
+        "features": ["HyperPoker Basic", "Basic CRM", "Daily Setup", "Clock Sync"]
+      },
+      "starter": {
+        "name": "Starter",
+        "tag": "Standard",
+        "price": 5000,
+        "annualPrice": 50000,
+        "avg": 4167,
+        "desc": "Ideal for small venues.",
+        "features": ["HyperPoker Basic", "Basic CRM", "Daily Setup", "Booking & Waitlist", "Prize Settlement", "Clock Sync", "Basic Reports"]
+      },
+      "pro": {
+        "name": "Pro",
+        "tag": "Professional",
+        "price": 20000,
+        "annualPrice": 200000,
+        "avg": 16667,
+        "desc": "Data-driven growth.",
+        "features": ["HyperPoker Advanced", "Live View", "CRM Management", "Membership Tiers", "Multi-day Events", "Marketing Module", "Advanced Reports"]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "tag": "Full Suite",
+        "price": 50000,
+        "annualPrice": 500000,
+        "avg": 41667,
+        "desc": "Ultimate scale & control.",
+        "features": ["Full HyperPoker", "Full CRM Lifecycle", "Tiers & Discounts", "Marketing Automation", "Audit Trails", "External Integrations", "Custom API"]
+      }
+    }
+  },
+  "club": {
+    "heroTag": "HyperSystem | Club System",
+    "heroTitle": "Intelligent Operations Reshaping Profit",
+    "heroDesc": "Unified system for events, members, finance, and marketing to boost efficiency and growth.",
+    "videoSectionTitle": "End the Paper Chaos",
+    "videoSectionSubtitle": "Imagine Friday night with 50 players. Is your front desk paralyzed? HyperSystem automates everything.",
+    "solutionsTitle": "Drive Your Club from Stability to Scale",
+    "faqTitle": "Frequently Asked Questions",
+    "module1": {
+      "title": "Tournament Automation",
+      "subtitle": "Elastic Setup, One-Click Launch",
+      "desc": "Sync events to screens, player phones, and social media instantly. Zero latency build trust through transparency."
+    },
+    "module2": {
+      "title": "Intelligent CRM",
+      "subtitle": "Segmentation & Smart Reactivation",
+      "desc": "Target dormant users or high-value VIPs with automated marketing. Reduce churn and maximize player value."
+    },
+    "module3": {
+      "title": "Multi-Dim BI",
+      "subtitle": "Operational Insights & Audit",
+      "desc": "Visual financial reports identify bottlenecks. Full audit trails eliminate account errors and internal fraud."
+    },
+    "module4": {
+      "title": "Elastic Rules",
+      "subtitle": "Diverse Framework, Simple Ops",
+      "desc": "Highly flexible parameters supporting complex blind structures, reducing labor costs significantly."
+    },
+    "module5": {
+      "title": "Ecosystem Marketing",
+      "subtitle": "Monetization & Growth",
+      "desc": "Integrate e-vouchers, F&B, and ad displays. Turn spaces into full digital entertainment centers."
+    },
+    "faqs": [
+      {
+        "q": "What scale does HyperSystem suit?",
+        "a": "Modular design allows you to choose plans based on your size and upgrade as you grow."
+      },
+      {
+        "q": "Does it support chain management?",
+        "a": "Yes. Manage multiple venues under one master account with aggregated financial data."
+      },
+      {
+        "q": "Can we customize rules?",
+        "a": "Yes. Our engine supports flexible standard rules and offers custom dev for special logic."
+      },
+      {
+        "q": "How to import existing data?",
+        "a": "HyperSystem provides one-time data migration assistance for paid subscribers."
+      },
+      {
+        "q": "Is multi-currency supported?",
+        "a": "Currently based on regional currency. We focus on transparency and risk reduction."
+      }
+    ]
+  },
+  "player": {
+    "heroTag": "HyperPoker | Player System",
+    "heroTitle": "Ultimate Experience Building Loyalty",
+    "heroDesc": "Real-time status, smart booking, digital wallet, and deep career analytics in your pocket.",
+    "videoSectionTitle": "No More Peak Hour Mess",
+    "videoSectionSubtitle": "No download needed. From booking to prize collection, everything happens at your fingertips.",
+    "solutionsTitle": "The Complete Player Lifecycle Solution",
+    "faqTitle": "Frequently Asked Questions",
+    "welcome": "Welcome Back",
+    "totalPoints": "Total Points",
+    "qrCheckin": "QR Check-in",
+    "myWallet": "My Wallet",
+    "rank": "Global Rank",
+    "vouchers": "Active Vouchers",
+    "viewAll": "View All",
+    "liveTournaments": "Live Events",
+    "booking": "Book Now",
+    "myStats": "My Stats",
+    "winRate": "Win Rate",
+    "itm": "ITM%",
+    "level": "Tier",
+    "totalWinnings": "Total Prize",
+    "module1": {
+      "title": "Automated Booking",
+      "subtitle": "One-Click RSVP, No Waiting",
+      "desc": "24/7 automated registration. Lock in seats and update counts instantly, reducing friction for players."
+    },
+    "module2": {
+      "title": "Live Dashboard",
+      "subtitle": "Real-time Event Status",
+      "desc": "Check calendars, seats, and blind levels on your phone. Prepare before you even arrive."
+    },
+    "module3": {
+      "title": "Smart Wallet",
+      "subtitle": "Instant Settlement & Security",
+      "desc": "Digitally manage points and vouchers. No more lost paper coupons; full traceability for every cent."
+    },
+    "module4": {
+      "title": "Career Analytics",
+      "subtitle": "Data-Driven Achievement",
+      "desc": "Track history and win distributions. Analyze gameplay to improve skills and build community bond."
+    },
+    "module5": {
+      "title": "Poker Map",
+      "subtitle": "Find the Best Action",
+      "desc": "Discover partner clubs and events on an interactive map. Enjoy a seamless tournament experience."
+    },
+    "faqs": [
+      {
+        "q": "What is HyperPoker?",
+        "a": "A dedicated PWA bridge for clubs and players, integrating booking, wallet, and stats."
+      },
+      {
+        "q": "Is a download required?",
+        "a": "No. Just scan a QR code or click a link. Full App smoothness with zero friction."
+      },
+      {
+        "q": "Does it cost extra?",
+        "a": "It is included in the HyperSystem subscription. We have plans for all sizes."
+      },
+      {
+        "q": "Is my money safe?",
+        "a": "We record balances based on physical pre-payments at the club. All actions have digital audit trails."
+      }
+    ]
+  }
+}

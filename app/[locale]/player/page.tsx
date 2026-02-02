@@ -1,0 +1,29 @@
+import { setRequestLocale } from 'next-intl/server';
+import { getTranslations } from 'next-intl/server';
+import { PlayerSystem } from '@/components/player/PlayerSystem';
+
+type Props = {
+  params: Promise<{ locale: string }>;
+};
+
+export async function generateMetadata({ params }: Props) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'seo' });
+
+  return {
+    title: t('playerTitle'),
+    description: t('description'),
+    openGraph: {
+      title: t('playerTitle'),
+      description: t('description'),
+      locale: locale,
+    },
+  };
+}
+
+export default async function PlayerPage({ params }: Props) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+
+  return <PlayerSystem />;
+}

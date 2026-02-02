@@ -1,0 +1,290 @@
+{
+  "seo": {
+    "title": "HyperSystem | 全台最強撲克協會管理與玩家系統",
+    "description": "HyperSystem 提供下一代撲克基礎設施，整合協會端管理與玩家端 HyperPoker。自動化賽事設定、即時桌況同步、專業 BI 報表與玩家回饋系統。",
+    "clubTitle": "協會管理系統 - HyperSystem | 專業撲克場館解決方案",
+    "playerTitle": "HyperPoker 玩家系統 | 即時桌況、智慧預約與戰績分析",
+    "pricingTitle": "方案定價 - HyperSystem | 適合各規模場館的彈性訂閱"
+  },
+  "nav": {
+    "product": "Home",
+    "calculator": "效益評估",
+    "service": "常見問題",
+    "clubSystem": "HyperSystem 協會系統",
+    "playerSystem": "HyperPoker 玩家系統",
+    "pricing": "方案定價",
+    "trial": "申請試用"
+  },
+  "hero": {
+    "tag": "下一代撲克超級系統",
+    "title1": "把碎片化營運",
+    "title2": "轉化成獲利動能",
+    "desc": "為現代撲克協會打造的全流程管理引擎，協會端＋玩家端雙系統串聯，優化營運效率，驅動回訪、滿桌與營收的成長飛輪",
+    "card1Title": "協會管理後台",
+    "card1Desc": "一站式搞定場館大小事",
+    "card2Title": "玩家會員系統",
+    "card2Desc": "賽事、報名、回饋一目瞭覽"
+  },
+  "product": {
+    "tag": "Product Preview",
+    "title": "全方位的模組化解決方案",
+    "subtitle": "不論單店或連鎖協會，HyperSystem 提供可隨規模無限擴展的雲端系統架構。",
+    "liveSync": "即時數據同步"
+  },
+  "healthCheck": {
+    "tag": "Business Health Check",
+    "title": "從智慧後台到極致玩家體驗，徹底終結痛點",
+    "pillar1": "Hyper Ops ｜ 營運優化",
+    "pillar1Desc": "打造標準化、可自動化的流程，極大化現場營運效率",
+    "pillar2": "Hyper Control ｜ 風險控管",
+    "pillar2Desc": "資料即時同步、權限分級控管，讓每一筆資產都可控",
+    "pillar3": "Hyper Growth ｜ 再行銷與成長",
+    "pillar3Desc": "優化玩家旅程、自動喚回沈睡玩家，提升滿桌率",
+    "footer": "HyperSystem 為您量身定制的獲利增長引擎，揭示每一筆流失的效率支出"
+  },
+  "calculator": {
+    "title1": "1. 診斷營運痛點",
+    "groupOps": "Ops 營運流程：把時間還給玩家",
+    "groupControl": "Control 風險控管：每一分錢都精準",
+    "groupGrowth": "Hyper Growth ｜ 再行銷與成長：讓玩家自動回頭",
+    "title2": "2. 營運規模",
+    "label1": "每日賽事場數",
+    "label2": "每日進場玩家數",
+    "label3": "平均人員時薪 (TWD)",
+    "btnRun": "立即生成診斷報告",
+    "calculating": "正在診斷您的營運痛點",
+    "resultHours": "每月節省人力",
+    "resultRisk": "風控安全提升",
+    "resultGrowth": "預期滿桌率提升",
+    "resultValue": "每年釋放營運價值",
+    "resultFooter": "HyperSystem 助您將碎片化的營運損耗轉化為實質獲利",
+    "btnRetry": "重新評估",
+    "btnApply": "立即申請試用"
+  },
+  "contact": {
+    "title1": "終結低效營運",
+    "title2": "告別系統斷層",
+    "desc": "HyperSystem 提供 24/7 本地技術支援，為您的撲克場館打造最強數位護城河。",
+    "btnTrial": "立即申請試用"
+  },
+  "modal": {
+    "title": "申請試用",
+    "titleSubscription": "立即訂閱 {plan} 方案",
+    "desc": "留下您的聯繫資訊，HyperSystem 專家將為您展示最強大的營運引擎以及提供您試用",
+    "descSubscription": "立即訂閱，HyperSystem 業務將於一週內聯絡您協助協會進行既有會員資料轉移與啟動HyperSytem與HyperPoker雙系統",
+    "labelBrand": "品牌 / 協會名稱",
+    "placeholderBrand": "您的品牌名稱",
+    "labelTaxId": "統一編號",
+    "placeholderTaxId": "您的統一編號",
+    "labelContact": "聯絡人",
+    "placeholderContact": "聯絡負責人",
+    "labelEmail": "電子郵件 (選填)",
+    "placeholderEmail": "您的電子郵件地址",
+    "labelPhone": "電話號碼",
+    "placeholderPhone": "您的電話號碼",
+    "labelAddress": "協會店址",
+    "placeholderAddress": "請輸入協會詳細地址",
+    "btnSubmit": "提交試用申請",
+    "btnSubscribe": "提交與付款"
+  },
+  "demos": {
+    "live": "即時監控",
+    "table": "桌號",
+    "level": "級別",
+    "vip": "VIP 玩家",
+    "turnover": "總營業額",
+    "syncBtn": "發布賽事並同步",
+    "broadcast": "直播中",
+    "syncing": "同步中...",
+    "botNews": "最新消息：Sunday Millions 已經開放預約。",
+    "weeklyRev": "週收益",
+    "target": "目標達成",
+    "revPerf": "收益績效分析",
+    "playerCenter": "玩家中心",
+    "wallet": "錢包餘額",
+    "winRate": "勝率"
+  },
+  "pricing": {
+    "tag": "Scale Your Passion",
+    "title": "選擇適合您的成長方案",
+    "subtitle": "無論場館規模大小，HyperSystem 提供最靈活的方案架構，助您從單店經營走向全球規模化擴張。",
+    "toggleMonthly": "月繳",
+    "toggleAnnually": "年繳",
+    "offTag": "83折",
+    "monthUnit": "月",
+    "yearUnit": "年",
+    "avgMonth": "平均每月",
+    "mostPopular": "主力推薦",
+    "ctaFree": "立即試用",
+    "ctaPaid": "立即訂閱",
+    "showDetail": "詳細功能列表",
+    "addons": {
+      "title": "補充額外加值模組",
+      "note": "訂閱費包含基礎會員、賽事數量，Pro與Enterprise方案另含 LINE 機器人訊息與定量行銷訊息，您可額外加值增加額度",
+      "item1": "餐飲點餐 / 電子菜單",
+      "item1Price": "3,000 / 月",
+      "item2": "額外店數擴容",
+      "item2Price": "2,000 / 店月",
+      "item3": "額外彈性客製化服務",
+      "item3Price": "另洽業務"
+    },
+    "plans": {
+      "free": {
+        "name": "Free",
+        "tag": "三個月體驗",
+        "price": 0,
+        "desc": "適合數位轉型起步\n零成本體驗高效管理",
+        "features": ["玩家端HyperPoker基礎版", "基礎會員管理", "當日賽事設定", "鐘面同步"]
+      },
+      "starter": {
+        "name": "Starter",
+        "tag": "入門版",
+        "price": 5000,
+        "annualPrice": 50000,
+        "avg": 4167,
+        "desc": "適合剛起步小型協會\n標準化營運流程",
+        "features": ["玩家端HyperPoker基礎版", "基礎會員管理", "當日賽事設定", "賽事線上預約與候補", "獎金設定與結算", "鐘面同步", "基礎報表"]
+      },
+      "pro": {
+        "name": "Pro",
+        "tag": "專業版",
+        "price": 20000,
+        "annualPrice": 200000,
+        "avg": 16667,
+        "desc": "適合專業規模場館\n透過數據驅動增長",
+        "features": ["玩家端HyperPoker進階版", "玩家端即時賽事", "基礎會員管理", "會員等級與折扣設定", "多日賽事設定", "賽事線上預約與候補", "獎金設定與結算", "鐘面同步", "行銷模組", "進階報表"]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "tag": "企業版",
+        "price": 50000,
+        "annualPrice": 500000,
+        "avg": 41667,
+        "desc": "適合旗艦級場館\n實現極致規模擴張",
+        "features": ["玩家端HyperPoker進階版", "玩家端即時賽事", "完整會員生命週期管理", "會員等級與折扣設定", "多日賽事設定", "賽事線上預約與候補", "獎金設定與結算", "鐘面同步", "行銷模組", "進階報表", "外部系統整合"]
+      }
+    }
+  },
+  "club": {
+    "heroTag": "HyperSystem | 協會系統",
+    "heroTitle": "智能驅動營運 重塑獲利曲線",
+    "heroDesc": "用一套系統打通賽事、會員、財務與行銷，提升效率、降低錯誤，讓每一場賽事都成為驅動成長的引擎。",
+    "videoSectionTitle": "告別紙本與混亂 重塑場館營運效率",
+    "videoSectionSubtitle": "想像週五晚上，現場同時湧入 50 位玩家報名，您的櫃檯會陷入癱瘓嗎？\nHyperSystem 自動化一切流程，讓您從瑣碎的雜事中解脫，專注於品牌擴張與營收倍增。",
+    "solutionsTitle": "驅動您的撲克協會從穩健營運到規模擴張",
+    "faqTitle": "常見問題",
+    "module1": {
+      "title": "全時態賽事自動化",
+      "subtitle": "彈性設定 一鍵發布",
+      "desc": "揮別營運重工，一鍵開賽，自動連動線上報名系統。賽事狀態與即時桌況將同步更新至現場看板、玩家手機端與社群平台，確保資訊傳遞零延遲，以資訊透明度建立玩家對場館的終極信任。"
+    },
+    "module2": {
+      "title": "智慧會員管理",
+      "subtitle": "分群推播 高效喚回",
+      "desc": "不只是數位化的會員與預付金管裡資料庫，透過分析玩家的參賽偏好、回訪頻率與消費力，您能針對「沈睡用戶」執行自動化再行銷，或為「高貢換度玩家」提供專屬尊榮服務。透過數據分層，有效降低客群流失率，極大化單一會員價值。"
+    },
+    "module3": {
+      "title": "多維營運決策",
+      "subtitle": "經營洞察 資產可溯",
+      "desc": "深度整合預付金、賽事報名與獎金支出，自動生成可視化財務分析報表，協助您精準找出場館周轉率的獲利瓶頸。具備最嚴謹的數位軌跡紀錄與多階權限管理，徹底根除內部操盤造假與人為帳務錯誤風險，即使不在現場，也能掌握絕對的營運掌控權。"
+    },
+    "module4": {
+      "title": "彈性賽事設定",
+      "subtitle": "架構多元 極簡操作",
+      "desc": "內建極高靈活度的配置參數，支援各類複雜賽制與盲注結構，大幅降低溝通與人力成本，豐富協會賽事。"
+    },
+    "module5": {
+      "title": "跨生態行銷",
+      "subtitle": "流量變現 營收增長",
+      "desc": "整合電子票券核銷、場內餐飲點購與廣告看板管理模組。透過系統化的交叉銷售策略，讓從單一的賽事空間，升級為全方位數位娛樂中心，開拓第二、第三條高毛利營收曲線。"
+    },
+    "faqs": [
+      {
+        "q": "HyperSystem 適合什麼規模的協會？",
+        "a": "HyperSystem 採模組化設計，您能依據目前的經營規模（如桌數、賽事頻率）選擇最合適的訂閱方案，並隨著場館成長隨時升級功能，確保系統彈性與您的營收同步增長。"
+      },
+      {
+        "q": "HyperSystem 支援連鎖場館管理嗎？",
+        "a": "是的。我們的雲端架構專為規模化經營設計。您可以透過一個主帳號管理多個場館，並查看彙總財務報表與會員跨店數據。"
+      },
+      {
+        "q": "協會可自定義賽事規則嗎？",
+        "a": "可以。HyperSystem 內建高靈活度的標準化、主流賽事參數設定。若您的場館有非常特殊的賽事邏輯，我們的技術團隊也能提供高度客製化的開發支援，確保系統完美契合您的營運特色。"
+      },
+      {
+        "q": "如何導入舊有的會員資料？",
+        "a": "當您訂閱付費版方案，HyperSystem 會協助您做一次性的資料轉移，讓營運無縫接軌。"
+      },
+      {
+        "q": "是否支援多幣種結算？",
+        "a": "目前HyperSystem結算幣種僅能依協會區域所收受之貨幣進行設定。HyperSystem 為營運管理工具，不代收發任何金流與換匯，HyperSystem確保內部帳款透明化與稽核自動化，徹底降低人為帳款錯誤與財務風險。"
+      }
+    ]
+  },
+  "player": {
+    "heroTag": "HyperPoker | 玩家端系統",
+    "heroTitle": "極致體驗 打造玩家的深度黏著",
+    "heroDesc": "即時桌況、智慧預約、數位錢包與深度戰績分析，隨時隨地掌握賽程動態",
+    "videoSectionTitle": "告別尖峰時段的報名亂象",
+    "videoSectionSubtitle": "無須下載，點擊即入。重新定義了撲克賽事的參與流：從查看賽表、報名到領取獎金，一切都在指尖秒速完成",
+    "solutionsTitle": "從註冊、參賽到留存：玩家增長的完整解決方案",
+    "faqTitle": "常見問題",
+    "welcome": "歡迎回來",
+    "totalPoints": "總點數",
+    "qrCheckin": "QR 報到",
+    "myWallet": "我的錢包",
+    "rank": "全球排名",
+    "vouchers": "可用優惠券",
+    "viewAll": "查看全部",
+    "liveTournaments": "即時賽事",
+    "booking": "立即預約",
+    "myStats": "我的生涯數據",
+    "winRate": "勝率",
+    "itm": "ITM%",
+    "level": "等級",
+    "totalWinnings": "總獎金",
+    "module1": {
+      "title": "自動化報名流程",
+      "subtitle": "一鍵預約 無需等待客服",
+      "desc": "告別繁瑣的 LINE 往返確認與人工登記。HyperPoker 讓玩家能 24/7 自主完成註冊、預約及預付金支付。系統自動鎖定席位並即時更新報名人數，大幅降低玩家報名摩擦力，提升協會滿桌率。"
+    },
+    "module2": {
+      "title": "即時賽事看板",
+      "subtitle": "賽事狀況 隨時掌握",
+      "desc": "將現場螢幕搬進玩家手機。玩家可隨時查看賽事行事曆、剩餘人數、各桌盲注級別與即時桌況。透過資訊透明化，有效減少現場櫃檯與客服的詢問壓力，讓玩家在抵達場館前就做好參賽準備，提升場館營運效率。"
+    },
+    "module3": {
+      "title": "智慧預付錢包",
+      "subtitle": "秒速核銷 資金更安全",
+      "desc": "整合預約、報到與賽事獎金系統，實現「秒速核銷」。點數、獎金與優惠券全面數位化管理，不僅徹底解決玩家遺失紙本折價券的痛點，更為協會杜絕人為帳務漏洞與風險，確保每一分資金流向皆可追蹤。"
+    },
+    "module4": {
+      "title": "個人戰績中心",
+      "subtitle": "數據驅動玩家成就感",
+      "desc": "完整記錄賽事參與歷史、勝率分析與獲勝分佈。透過數據分析幫助玩家檢討戰局、提升技術，建立強大的成就感與社群黏著度。"
+    },
+    "module5": {
+      "title": "全台撲克地圖",
+      "subtitle": "虛實整合 打破資訊孤島",
+      "desc": "整合全台協會資訊與合作協會即時賽事。讓玩家在地圖上輕鬆探索熱門賽場，快速完成入會申請，享受無縫接軌的參賽體驗。"
+    },
+    "faqs": [
+      {
+        "q": "什麼是 HyperPoker 玩家系統？",
+        "a": "這是專為撲克協會打造的 RWA 網頁。它不僅是一個工具，更是連結協會與玩家的數位橋樑，將預約、桌況、錢包與數據分析整合於一體。"
+      },
+      {
+        "q": "玩家需要下載 App 嗎？",
+        "a": "完全不需要。玩家只需掃描現場 QR Code 或點擊 LINE/FB 連結即可開啟。它具備 App 的流暢度，卻沒有下載的門檻。"
+      },
+      {
+        "q": "協會採用這套系統需要額外付費嗎？",
+        "a": "玩家 App 包含在 HyperSystem 的訂閱服務中。我們提供不同層級的方案，助力不同規模的協會成長。"
+      },
+      {
+        "q": "系統如何確保點數與預付金的安全？",
+        "a": "系統僅紀錄玩家在協會線下交付的預付金與賽事獎金回存餘額，線下帳款以及線上線下對帳由協會端負責。然而所有線上帳目異動皆有數位軌跡，有助降低營運漏洞。"
+      }
+    ]
+  }
+}

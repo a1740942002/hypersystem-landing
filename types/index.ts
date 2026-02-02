@@ -1,7 +1,5 @@
-
-import { ReactNode } from 'react';
-
 export type Language = 'zh-TW' | 'zh-CN' | 'en' | 'ja';
+
 export type View = 'landing' | 'player' | 'club' | 'pricing';
 
 export interface ModuleData {
@@ -10,18 +8,18 @@ export interface ModuleData {
   tag: string;
   desc: string;
   highlights: string[];
-  icon: ReactNode;
-  demo: ReactNode;
+  icon: React.ReactNode;
+  demo: React.ReactNode;
 }
 
 export interface PainPoint {
   group: 'Ops' | 'Control' | 'Growth';
   label: string;
-  t?: number; // minutes per tournament
-  p?: number; // minutes per player
-  m?: number; // monthly minutes
-  r?: number; // risk score boost
-  g?: number; // growth score boost
+  t?: number;
+  p?: number;
+  m?: number;
+  r?: number;
+  g?: number;
 }
 
 export interface CalculationResults {
