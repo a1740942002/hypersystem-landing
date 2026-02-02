@@ -3,9 +3,12 @@ import type { NextConfig } from 'next';
 
 const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
 
+const isProd = process.env.NODE_ENV === 'production';
+
 const nextConfig: NextConfig = {
-  // output: 'export', // Uncomment for static export (requires removing middleware)
+  output: 'export',
   trailingSlash: true,
+  basePath: isProd ? '/hypersystem-landing' : '',
   images: {
     unoptimized: true,
   },
