@@ -14,13 +14,22 @@ export function Footer() {
           </span>
         </div>
         <div className="flex gap-10 text-slate-300">
-          <button className="hover:text-blue-600 transition-colors">
+          <button
+            className="hover:text-blue-600 transition-colors"
+            aria-label="Language"
+          >
             <Globe size={20} />
           </button>
-          <button className="hover:text-blue-600 transition-colors">
+          <button
+            className="hover:text-blue-600 transition-colors"
+            aria-label="Community"
+          >
             <Users size={20} />
           </button>
-          <button className="hover:text-blue-600 transition-colors">
+          <button
+            className="hover:text-blue-600 transition-colors"
+            aria-label="Features"
+          >
             <Zap size={20} />
           </button>
         </div>
